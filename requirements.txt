@@ -1,7 +1,7 @@
-streamlit
-numpy
+streamlit==1.33.0
+streamlit-webrtc==0.47.0
 opencv-python-headless
-mediapipe==0.10.11   # <-- KHÓA PHIÊN BẢN
-Pillow
-streamlit-webrtc
-joblib
+mediapipe
+scikit-learn
+numpy
+Python 3.10.11
